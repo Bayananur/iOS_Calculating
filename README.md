@@ -34,6 +34,7 @@ iPhone 13 Pro
 Feel free to enjoy this nostalgic calculator app on your iOS device, and bring back the charm of the original iPhone calculator.
 
 # Author:
+
 Bayan Nurkhanova
 
 mail: bayananur@gmail.com

@@ -18,7 +18,7 @@ Utilize the app for your calculations:
 Tap the numeric buttons (0-9) to input numbers.Employ the arithmetic operator buttons (+, -, *, /) for calculations.Press the decimal point button (",") to add a decimal point.
 Toggle the sign of the current input using the "+/-" button.Calculate percentages with the "%" button.Clear your input or result and start fresh with the "AC" button.
 The result of your calculation will be prominently displayed in the top panel of the app.
-#Dependencies
+#Dependencie
 iOS_Calculating is an independent app with no external dependencies. It is built exclusively using UIKit, a fundamental framework for iOS app development.
 
 # Testing
